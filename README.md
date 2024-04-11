@@ -11,3 +11,4 @@ Raketenstart-Animation https://makecode.calliope.cc/_CtwR5XW0rLJ8
 
 Keksalarm https://t1p.de/qc755
 
+Gyro Remote https://makecode.calliope.cc/_YiJamp2gaXiL
